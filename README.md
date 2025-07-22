@@ -1,5 +1,4 @@
 # Hand-Cricket
-A fun and interactive Java-based Hand Cricket game that brings nostalgic playground battles to your screen!
 
 This game replicates the popular **Hand Cricket** concept using Java Swing and brings a fun, interactive, turn-based cricket experience between a user and the computer.
 
